@@ -1,46 +1,18 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Go, Ruby, Big Data 
+tagline: Making big things easy
 ---
-{% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+I am the CIO at a credit bureau focusing on sub-prime consumers, where I use a wide variety of cutting edge technologies to provide real-time credit and risk data to lenders.  I once created RailsLiveCD, a popular Linux distribution that distributed a self-contained Rails development environment.  I have authored or co-authored many open source libraries for Ruby and Go, including Skynet - a popular distributed application framework written in Go, and have spoken about Go at conferences like Strangeloop.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Current Projects:
 
-## Update Author Attributes
+* [Skynet](https://github.com/skynetservices.com/skynet)
+* [Doozer](https://github.com/ha/doozerd)
+* [handlersocket-go](https://github.com/bketelsen/handlersocket-go)
+* [Go-Resque](https://github.com/bketelsen/GoResque)
+* [crypticmysql](https://github.com/bketelsen/crypticmysql)
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+Upcoming Releases:
+*Go In Action* Manning Publications, Inc.
