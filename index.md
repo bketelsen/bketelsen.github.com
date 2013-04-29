@@ -8,8 +8,8 @@ I am the CIO at a credit bureau focusing on sub-prime consumers, where I use a w
 
 Current Projects:
 
-* [Skynet](https://github.com/skynetservices.com/skynet)
-* [Doozer](https://github.com/ha/doozerd)
+* [Skynet](https://github.com/skynetservices.com/skynet) - Manage your services across your clusters.  Makes HA into EZ
+* [Doozer](https://github.com/ha/doozerd) - Distributed coordination
 * [handlersocket-go](https://github.com/bketelsen/handlersocket-go)
 * [Go-Resque](https://github.com/bketelsen/GoResque)
 * [crypticmysql](https://github.com/bketelsen/crypticmysql)
